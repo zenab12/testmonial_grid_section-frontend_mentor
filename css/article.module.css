@@ -33,6 +33,7 @@ article {
 
 #article1 .article__header::before 
 {
+  content:"";
   width:120px;
   height:120px;
   display: block;
